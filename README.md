@@ -1,7 +1,7 @@
-<h1 align="center">Hello there 👋, I'm Peter</h1>
-<h3 align="center">An aspiring fullstack developer from Poland</h3>
+<h1>Hello there 👋, I'm Peter</h1>
+<h3>An aspiring fullstack developer from Poland</h3>
 
-- 🌱 I’m currently learning **node.js, react.js**
+- 🌱 I’m currently learning **Node.js, React.js**
 
 - 📫 How to reach me **zimnicki.piotrr@gmail.com**
 
